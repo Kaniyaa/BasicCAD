@@ -42,7 +42,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description 
-
+A 2 part mount 8mm thickness with multiple holes in it. 
 ### Evidence
 
 ### Image https://cvilleschools.onshape.com/documents/791bcfde82b7a6deabbdd41d/w/4f880ae873049b37716209f7/e/0bbadfd969801105aa9f5fba
